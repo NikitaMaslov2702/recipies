@@ -1,1 +1,23 @@
+body{
+    color:#FCF6E4;
+    font-family: "Caveat";
+}
+footer{color: #FAC38B;}
+.header{color:#FAC38B}
+.search{
+    color:#FCF6E4;
+    border-radius: 10px;
+}
+.txt{
+    border-radius: 10px;
+    border-color: #FAC38B;
+}
+.text{
+    text-align: right;
+}
+.img{border-radius: 10px}
 
+@media (max-width: 600px) {
+body{position: absolute;}
+
+  }
