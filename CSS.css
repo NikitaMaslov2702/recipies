@@ -1,1 +1,13 @@
-
+body{
+    color:#FCF6E4
+}
+footer{color: #FAC38B;}
+.header{color:#FAC38B}
+.search{
+    color:#FCF6E4;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 10px;
+    border-color: #FAC38B;
+}
