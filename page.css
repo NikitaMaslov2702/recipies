@@ -84,11 +84,17 @@ p {
   margin: 1vh;
 }
 
-#search-p {
-    line-height: 0;
-    font-weight: 700;
-    color: #FAC38B;
+#search-input {
+    height: inherit;
+    width: inherit;
     font-size: 2em;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAC38B;
+    background-color: #FCF6E4;
+    border: #000000 solid 0;
 }
 
 #main-div {
