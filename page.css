@@ -121,7 +121,7 @@ p {
 #recipe-title {
     color: #D17E32;
     font-size: 3em;
-    line-height: 0;
+    line-height: 1em;
     font-weight: 700;
 }
 
