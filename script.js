@@ -1,3 +1,3 @@
-document.getElementById('burger-png').addEventListener('click', function() {
+document.getElementById('burg').addEventListener('click', function() {
     window.location.href = 'page.html';
 });
